@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylvmiro\\source\\repos\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\Users\\Bollydick\\Documents\\Project Perso\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylvmiro\\source\\repos\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Users\\Bollydick\\Documents\\Project Perso\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylvmiro\\source\\repos\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Bollydick\\Documents\\Project Perso\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\sylvmiro\\source\\repos\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj",
-        "packagesPath": "C:\\Users\\sylvmiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylvmiro\\source\\repos\\Design-Pattern\\Creational\\AbstractFactory\\obj\\",
+        "projectPath": "C:\\Users\\Bollydick\\Documents\\Project Perso\\Design-Pattern\\Creational\\AbstractFactory\\AbstractFactory.csproj",
+        "packagesPath": "C:\\Users\\Bollydick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bollydick\\Documents\\Project Perso\\Design-Pattern\\Creational\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sylvmiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bollydick\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://petrusvsts.pkgs.visualstudio.com/_packaging/meetpackage/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
